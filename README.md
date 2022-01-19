@@ -1,6 +1,7 @@
-- Hey, I'm @johnhryn
-- I’m interested in, learning, and looking to collaborate on Web3/blockchain projects
-- How to reach me ... gmail:hrynjohn@gmail.com
+#Hey, I'm @johnhryn
+#Currently focused on Python and Solidity
+#Interested in, and open to collaborate on, any Web3 Projects
+#You can reach me at hrynjohn@gmail.com
 
 <!---
 johnhryn/johnhryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
